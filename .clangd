@@ -1,0 +1,6 @@
+CompileFlags:
+    Add:
+        - "-I..\\nest-libs\\windows\\glm\\include\\"
+        - "-I..\\nest-libs\\windows\\SDL2\\include\\"
+        - "-I..\\nest-libs\\windows\\freetype\\include\\"
+        - "-I..\\nest-libs\\windows\\harfbuzz\\include\\"
