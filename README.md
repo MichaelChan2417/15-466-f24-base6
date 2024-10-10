@@ -1,10 +1,10 @@
-# (TODO: your game's title)
+# Get Points
 
-Author: (TODO: your name)
+Author: Shengjian Chen
 
-Design: (TODO: In two sentences or fewer, describe what is new and interesting about your game.)
+Design: White Credit Point, and both players trying to get more points
 
-Networking: (TODO: How does your game implement client/server multiplayer? What messages are transmitted? Where in the code?)
+Networking: It's very similar to the base, just add tailling credit_point location within server-to-client, and also each player have a new credit-score.
 
 Screen Shot:
 
@@ -12,9 +12,8 @@ Screen Shot:
 
 How To Play:
 
-(TODO: describe the controls and (if needed) goals/strategy.)
+W/A/S/D to move around
 
-Sources: (TODO: list a source URL for any assets you did not create yourself. Make sure you have a license for the asset.)
 
 This game was built with [NEST](NEST.md).
 
